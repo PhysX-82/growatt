@@ -1,5 +1,5 @@
 {
-  "domain": "growatt_server_fix",
+  "domain": "growatt_fix",
   "name": "Growatt_fix",
   "codeowners": [],
   "config_flow": true,
