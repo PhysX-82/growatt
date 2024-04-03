@@ -17,7 +17,6 @@ SERVER_URLS = [
 ]
 
 DEPRECATED_URLS = [
-    "https://server.growatt.com/",
     "https://server-api.growatt.com/",
     "https://server-us.growatt.com/",
 ]
