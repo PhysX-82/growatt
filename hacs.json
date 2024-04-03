@@ -1,5 +1,5 @@
 {
-"name": "Growatt Fix",
+"name": "Growatt_fix",
 "homeassistant": "2022.3.1",
 "content_in_root": false,
 "hide_default_branch": true,
