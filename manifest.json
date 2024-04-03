@@ -1,6 +1,6 @@
 {
   "domain": "growatt_server_fix",
-  "name": "Growatt",
+  "name": "Growatt_fix",
   "codeowners": [],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/growatt_server",
