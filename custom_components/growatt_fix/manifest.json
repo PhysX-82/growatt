@@ -5,7 +5,7 @@
   "config_flow": true,
   "documentation": "https://github.com/PhysX-82/growatt",
   "iot_class": "cloud_polling",
-  "loggers": ["growatt_server_fix"],
+  "loggers": ["growatt_fix"],
   "requirements": ["growattServer==1.3.0"],
   "version": "1.0"
 }
